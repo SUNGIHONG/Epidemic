@@ -1,5 +1,5 @@
 # Epidemic
-Epidemics paper materials
+Epidemic forecasting paper materials
 
 ## How to use the code (for different cities)
 
